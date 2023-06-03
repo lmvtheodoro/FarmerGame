@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# NetBeans
+nbproject/
+build/
+
+# Android Studio
+.gradle/
+/build/
+
+# Xcode
+xcuserdata/
+*.xcworkspace/
+*.xcuserstate

@@ -1,11 +1,10 @@
-package controlllers.Animals;
+package controlllers;
 
 import farmProduction.productionLists;
 
 import java.util.Scanner;
 
-public class cowController {
-
+public class animals {
     static Scanner scanner = new Scanner(System.in);
 
     public static void buyCows() {

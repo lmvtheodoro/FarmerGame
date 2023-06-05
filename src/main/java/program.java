@@ -1,9 +1,9 @@
-import controlllers.gameController;
+import controlllers.game;
 
 public class program {
     public static void main(String[] args){
-        gameController.welcomePlayer();
-        gameController.gameFlow();
-        gameController.exitGame();
+        game.welcomePlayer();
+        game.gameFlow();
+        game.exitGame();
     }
 }
